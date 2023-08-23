@@ -9,11 +9,19 @@ if __name__ == "__main__" :
   print("Hola mundo")
 ```
 + ### Notepad++
-Comenzamos copiando el código en Notepad++
++ Comenzamos copiando el código en Notepad++
+  
+![](https://raw.githubusercontent.com/nisaespa/Mi-Primer-Repo/main/1.png)
+
++ Guardamos el archivo.
+  
+![](https://raw.githubusercontent.com/nisaespa/Mi-Primer-Repo/main/2.png)
+
++ Abrimos consola presionando ``` win + r ``` y luego escribir cmd.
 ![]()
-Guardamos el archivo 
-![]()
-![]()
+
+
+
 ![]()
 ![]()
 ![]()
