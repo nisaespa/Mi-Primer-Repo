@@ -1,4 +1,4 @@
-# THE FIRST ENIGMA :)
+# THE NOOB IN PYTHON 1👽
 ## Reto #2 Herramientas
 
 Para este reto probaremos las herramientos que vamos a utilizar en el curso.
@@ -66,7 +66,7 @@ if __name__ == "__main__" :
   
 ![](https://raw.githubusercontent.com/nisaespa/Mi-Primer-Repo/main/13.png)
 
-# Gracias por leer <3
+# Gracias por leer 🔥
 
 
 
