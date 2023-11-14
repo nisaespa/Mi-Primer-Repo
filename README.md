@@ -1,4 +1,4 @@
-# THE NOOB IN PYTHON 1👽
+# THE NOOB IN PYTHON 👽
 ## Reto #2 Herramientas
 
 Para este reto probaremos las herramientos que vamos a utilizar en el curso.
